@@ -42,5 +42,5 @@ Interact with the visualizations to explore sales trends.
 Apply filters for specific time periods and stores.
 
 🔹 Author: Mehak Memon
-🔹 GitHub Repository: Walmart-Sales-Analysis-Tableau
+
 
