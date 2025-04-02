@@ -1,6 +1,3 @@
-# Walmart-Sales-Analysis-Tableau
-
-Readme
 Walmart Sales Analysis (Tableau)
 📌 Project Overview
 This project analyzes Walmart's sales data using Tableau to uncover key insights into sales trends and store performance. The dashboard provides an interactive view of weekly sales trends and store-wise sales distribution.
