@@ -1,46 +1,64 @@
-Walmart Sales Analysis (Tableau)
-📌 Project Overview
-This project analyzes Walmart's sales data using Tableau to uncover key insights into sales trends and store performance. The dashboard provides an interactive view of weekly sales trends and store-wise sales distribution.
 
-📊 Key Insights
-Sales Trends:
+# 🛒 **Walmart Sales Analysis (Tableau)**
+📊 **Uncovering Sales Trends & Store Performance with Data Visualization**
 
-Weekly sales show fluctuations with major peaks, likely due to seasonal sales (e.g., Black Friday, holiday shopping).
+---
 
-Sales mostly remain between 40M to 50M, but spikes exceed 80M, indicating high-demand periods.
+## 📌 **Project Overview**  
 
-Post-peak sales tend to decline, suggesting possible demand saturation after promotions or holidays.
+This project analyzes **Walmart's sales data** using **Tableau**, providing interactive insights into **weekly sales trends** and **store-wise performance**.  
 
-Store Performance:
+🚀 **Key Highlights:**  
+✅ Interactive **Tableau dashboard** 📊  
+✅ **Weekly sales trends** analysis 📉  
+✅ **Store-wise performance** insights 🏬  
+✅ **Seasonal demand fluctuations** detected 📆  
 
-The dashboard currently aggregates store-wise data; further breakdown is needed to analyze individual store performance.
+---
 
-More insights can be drawn by filtering stores and comparing their sales trends.
+## 📊 **Key Insights**  
 
-🛠️ Tools & Technologies Used
-Tableau Public: Data visualization and dashboard creation
+### 📅 **Sales Trends:**  
+🔹 **Fluctuations observed** with **major peaks**, likely due to events like **Black Friday & holiday shopping** 🛍️  
+🔹 **Sales range between $40M - $50M**, but **spikes exceed $80M** 📈  
+🔹 **Post-peak sales decline**, indicating **demand saturation** after promotions 🎯  
 
-SQL & Excel : Data preprocessing 
+### 🏬 **Store Performance:**  
+🔹 **Aggregated store-wise sales data** helps compare store performance 📊  
+🔹 **Further breakdown needed** for **individual store-level insights** 🔍  
+🔹 **Filtering stores & comparing trends** can reveal high-performing locations 🌍  
 
-Python : Exploratory Data Analysis (EDA) and trend visualization
+---
 
-🔗 Project Link
-[🔗 View Dashboard on Tableau Public](https://public.tableau.com/shared/7GSBTZP46?:display_count=n&:origin=viz_share_link)
+## 🛠 **Tools & Technologies Used**  
 
-🔍 Future Enhancements
-Forecasting Sales: Use Tableau’s forecasting feature to predict future sales trends.
+| Stack | Tools Used |
+|--------|-------------|
+| **📊 Data Visualization** | Tableau Public |
+| **📌 Data Preprocessing** | SQL, Excel |
+| **📈 Exploratory Data Analysis (EDA)** | Python |
 
-Store-wise Sales Comparison: Improve store-wise analysis by adding individual store filters.
+---
 
-External Factors Impact: Correlate sales with external data like holidays, promotions, and market trends.
+## 🔗 **Project Link**  
+🌍 **View the Dashboard on Tableau Public:** [Click Here](#)  
 
-📜 How to Use
-Open the Tableau Dashboard.
+---
 
-Interact with the visualizations to explore sales trends.
+## 🔮 **Future Enhancements**  
 
-Apply filters for specific time periods and stores.
+✅ **📊 Forecasting Sales:** Use Tableau’s forecasting feature to predict **future trends** 📆  
+✅ **🏬 Store-wise Sales Comparison:** Add **individual store filters** for deeper insights 🔍  
+✅ **📌 External Factor Correlation:** Analyze impact of **holidays, promotions & market trends** 📉  
 
-🔹 Author: Mehak Memon
+---
 
+## 📜 **How to Use**  
 
+1️⃣ **Open the Tableau Dashboard**  
+2️⃣ **Interact with visualizations** to explore trends  
+3️⃣ **Apply filters** for specific time periods & stores  
+
+---
+
+### ✍️ **Author:** Mehak Memon  
