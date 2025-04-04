@@ -41,7 +41,7 @@ This project analyzes **Walmart's sales data** using **Tableau**, providing inte
 ---
 
 ## 🔗 **Project Link**  
-🌍 **View the Dashboard on Tableau Public:** [Click Here](#)  
+🌍 **View the Dashboard on Tableau Public:** [https://public.tableau.com/views/WalmartSalesTrendDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](#)  
 
 ---
 
